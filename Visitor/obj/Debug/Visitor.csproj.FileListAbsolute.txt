@@ -1,0 +1,8 @@
+D:\VisualStudioProject\Visitor\Visitor\bin\Debug\Visitor.exe.config
+D:\VisualStudioProject\Visitor\Visitor\bin\Debug\Visitor.exe
+D:\VisualStudioProject\Visitor\Visitor\bin\Debug\Visitor.pdb
+D:\VisualStudioProject\Visitor\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+D:\VisualStudioProject\Visitor\Visitor\obj\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProject\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\Visitor\Visitor\obj\Debug\Visitor.exe
+D:\VisualStudioProject\Visitor\Visitor\obj\Debug\Visitor.pdb
